@@ -1,7 +1,26 @@
 <h1 align='center' style="text-align:center; font-weight:bold; font-size:2.5em"> Distributed Database Management Project</h1>
 
 <p align='center' style="text-align:center;font-size:1em;">
-  
+In this project, two media companies are trying enhance the television viewing experience through data-driven insights and real-time analysis.
+The project involves leveraging advanced technologies and analytical techniques to detect malicious records, understand viewer preferences, and provide personalized channel recommendations to viewers.
+
+***Technologies Used:***
+
+- Apache Spark: Leveraged for big data processing, allowing efficient analysis of vast datasets.
+- Kafka: Utilized for streaming data ingestion, enabling real-time analysis of viewer behavior.
+- PySpark MLlib: Employed for machine learning tasks such as clustering and dimensionality reduction.
+- Pandas and Matplotlib: Used for data manipulation, visualization, and analysis.
+- Jupyter Notebooks: Facilitated interactive exploration and presentation of results.
+- 
+***Key Concepts and Techniques:***
+
+- Data Normalization: Adjusting features to a common scale to facilitate accurate analysis.
+- Principal Component Analysis (PCA): Employed to reduce the dimensionality of data and identify underlying patterns.
+- K-Means Clustering: Used to group households with similar characteristics and identify clusters of viewers.
+- Real-Time Streaming Analysis: Continuous assessment of viewer preferences and behaviors using Spark Streaming and Kafka.
+- Data Visualization: Visual representation of data to gain insights and communicate findings effectively.
+
+
 
 
 </p>
