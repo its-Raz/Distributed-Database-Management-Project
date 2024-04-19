@@ -35,3 +35,6 @@ You can also inspect the full requierments for it [HERE](https://github.com/its-
 ***Part 1.2 - Design and Deployment***
 - Analyze program viewing data to rank genres by popularity within each DMA.
 - Calculate DMA wealth scores based on net worth and income, then prioritize genre selection accordingly.
+
+# Part-2
+soon
