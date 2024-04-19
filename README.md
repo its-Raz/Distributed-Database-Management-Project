@@ -11,7 +11,7 @@ The project involves leveraging advanced technologies and analytical techniques 
 - PySpark MLlib: Employed for machine learning tasks such as clustering and dimensionality reduction.
 - Pandas and Matplotlib: Used for data manipulation, visualization, and analysis.
 - Jupyter Notebooks: Facilitated interactive exploration and presentation of results.
-- 
+
 ***Key Concepts and Techniques:***
 
 - Data Normalization: Adjusting features to a common scale to facilitate accurate analysis.
