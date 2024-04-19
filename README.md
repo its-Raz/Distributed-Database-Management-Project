@@ -25,7 +25,8 @@ Six conditions are meticulously assessed per record to identify and mitigate the
 - Part 1.2: In addition to detecting malicious records, the media company seeks assistance in organizing its data for efficient access across its distributed network. This entails determining genre popularity within each DMA and prioritizing genres based on DMA wealth scores. This part aims to optimize data placement and access to accommodate varying DMA resources.
 
 The data in this part divided into 4 data sets, you can inspect the full scheme [HERE](https://github.com/its-Raz/Distributed-Database-Management-Project/blob/5e9a1412f78af7f5cb767484006534430bbc52bc/Part%201%20docs/PART%201%20DATA%20SET%20SCHEME.pdf)
-You can also inspect the full requierments for it here:
+
+You can also inspect the full requierments for it [HERE](https://github.com/its-Raz/Distributed-Database-Management-Project/blob/main/Part%201%20docs/PART%201%20REQUIERMENTS.pdf)
 
 ***Part 1.1 - Spam Detection***
 - Extract and Transform: Utilizing Spark, load and preprocess data, applying necessary transformations. 
