@@ -19,7 +19,6 @@ i could not provide any data source but i do provide the data sets schemes
 
 
 # Part-1
-**Part-1**
 ***intro***
 A media company, aiming to enhance viewer experience through data-driven insights, seeks assistance in detecting malicious records inserted by a rival media association.
 Leveraging the power of Spark for big data processing, this project entails loading, analyzing, and detecting spam within the extensive "Daily Program Data" repository.
